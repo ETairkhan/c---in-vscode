@@ -1,5 +1,9 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout <<"HI";
+    int a = 4;
+    int b = 3;
+    cout <<"HI" << "\n";
+    cout << b + a;
+    //afksjfaksfsjfjas
 }
