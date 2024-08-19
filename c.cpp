@@ -3,18 +3,14 @@ using namespace std;
 
 int main()
 {
-   int a = 0;
-   std::cout << "Hello world!"<< endl;
-   int j= 4;
-   while(true){
-      cout<<"hello"<<endl;
-      
-      cin >> a ;
-      if(a==j){
-         break;
-      }
-
+  string b = "hui";
+  string a;
+  while(true){
+   cout<< " Write something that only i know"<< endl;
+   cin>> a ;
+   if(a==b){
+      break; 
    }
-   return 0;
+  }
    
 }
